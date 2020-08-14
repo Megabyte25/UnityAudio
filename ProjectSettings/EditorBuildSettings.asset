@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UISoundTestScene.unity
+    guid: 7491c6a7d9791b5468f13a937ba7c7ed
+  - enabled: 1
+    path: Assets/Scenes/3DSoundTestScene.unity
+    guid: 88c265912adadd74a9503504adea4306
   m_configObjects: {}
